@@ -126,7 +126,7 @@ function startFetch(){
                     
                     let li = document.createElement('li')
                     li.textContent ="Person: "+ item.id
-                    li.style.color = 'white'
+                    li.style.color = 'crimson'
                     ul.appendChild(li)
 
                     let li1 = document.createElement('li')
